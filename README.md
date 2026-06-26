@@ -4,7 +4,7 @@
 # Fitcore
 ### AI-Powered Fitness App — UX/Product Design Case Study
 
-*A senior-level product design portfolio project covering research, strategy, design system, wireframes, interactive prototype, and accessibility — designed for a potential 2027/2028 launch.*
+*A  product design portfolio project covering research, strategy, design system, wireframes, interactive prototype, and accessibility — designed for a potential 2027/2028 launch.*
 
 [![Figma](https://img.shields.io/badge/Figma-Design%20File-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/design/QKysZYSjZ6cKrTxGf10Zwc/fitcore-ui)
 [![Research](https://img.shields.io/badge/FigJam-Research%20Board-8B5CF6?style=flat&logo=figma&logoColor=white)](https://www.figma.com/board/oes8nIbmyMWwU0ZB4hLh4K/fitcore-research)

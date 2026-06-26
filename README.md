@@ -344,7 +344,7 @@ Total: 9 phases · 18 design system sections · 12 screens · 42 accessibility c
 | 📱 UI Screens | [Figma — Hi-fidelity screens](https://www.figma.com/design/QKysZYSjZ6cKrTxGf10Zwc/fitcore-ui?node-id=23-3) |
 | ▶ Prototype | [Figma — Interactive prototype, all flows wired](https://www.figma.com/design/QKysZYSjZ6cKrTxGf10Zwc/fitcore-ui?node-id=105-2) |
 
----| 📄 Docs | [Research, personas, WCAG audit, process notes](/docs/) |
+
 
 <div align="center">
 
